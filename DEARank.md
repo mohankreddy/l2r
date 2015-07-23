@@ -1,0 +1,1 @@
+Data envelopment analysis, a popular performance evaluation technique based on linear programming. It has been used for different tasks, such as DMUs ranking, classification, clustering.
